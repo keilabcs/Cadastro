@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Keila Barbosa",
+      "email": "keilabar@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Marcelo D`Amorim",
+      "email": "damorim@cin.ufpe.br"
+    }
+  ]
+}
