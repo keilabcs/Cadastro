@@ -1,0 +1,13 @@
+**Instruções para reproduzir**
+
+Install Dependencies
+- sudo apt-get install npm
+
+Execute no terminal 1
+1. Dentro da pasta backend <npm start>
+Home http://localhost:3001
+
+
+Execute no terminal 2
+1. Dentro da pasta frontend <npm start>
+Home http://localhost:3000
