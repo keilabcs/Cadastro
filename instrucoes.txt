@@ -1,13 +1,15 @@
-**Instruções para reproduzir**
+1. Install Dependencies
+ 
+ - $> sudo apt-get install npm
 
-Install Dependencies
-- sudo apt-get install npm
+2. Spawn database
+ 
+ - Open a terminal
+ - $> cd backend
+ - $> nmp start
 
-Execute no terminal 1
-1. Dentro da pasta backend <npm start>
-Home http://localhost:3001
+3. Spawn the web server
 
-
-Execute no terminal 2
-1. Dentro da pasta frontend <npm start>
-Home http://localhost:3000
+ - Open a terminal
+ - $> cd frontend
+ - $> nmp start
