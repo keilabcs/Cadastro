@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Marcelo D`Amorim",
       "email": "damorim@cin.ufpe.br"
+    },
+    {
+      "name": "Khyonara Barbosa",
+      "email": "kbcs2@cin.ufpe.br",
+      "id": 3
     }
   ]
 }
